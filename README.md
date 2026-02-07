@@ -1,4 +1,4 @@
-Advanced Water Leak Detection System for QGIS
+### Advanced Water Leak Detection System for QGIS
 
 This project is a high-performance spatial analysis tool designed to identify water pipeline breaches by combining Machine Learning (Random Forest), Dijkstra’s Pathfinding, and Copernicus SAR (Synthetic Aperture Radar) Imagery. By layering real-world satellite moisture data over local sensor networks, the system provides a robust "double-verification" for leak detection.
 ## Core Features
